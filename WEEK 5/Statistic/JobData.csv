@@ -1,0 +1,205 @@
+Governorate,Gender,Age Group,jobSeeker,Population
+Muscat,Male,15 - 19,216,14978
+Muscat,Male,20 - 24,1652,31329
+Muscat,Male,25 - 29,896,30863
+Muscat,Male,30 - 34,230,29585
+Muscat,Male,35 - 39,106,24652
+Muscat,Male,40 - 44,62,18058
+Muscat,Male,45 - 49,37,11091
+Muscat,Male,50 - 54,12,6619
+Muscat,Male,55 - 59,6,4293
+Muscat,Male,60 - 64,1,3278
+Muscat,Female,15 - 19,62,14695
+Muscat,Female,20 - 24,1247,30234
+Muscat,Female,25 - 29,2857,29636
+Muscat,Female,30 - 34,1383,28844
+Muscat,Female,35 - 39,537,23983
+Muscat,Female,40 - 44,194,17682
+Muscat,Female,45 - 49,71,11430
+Muscat,Female,50 - 54,23,7096
+Muscat,Female,55 - 59,6,4540
+Muscat,Female,60 - 64,1,3603
+Dhofar,Male,15 - 19,89,3467
+Dhofar,Male,20 - 24,930,8729
+Dhofar,Male,25 - 29,855,9004
+Dhofar,Male,30 - 34,292,9442
+Dhofar,Male,35 - 39,137,9479
+Dhofar,Male,40 - 44,43,7630
+Dhofar,Male,45 - 49,18,4987
+Dhofar,Male,50 - 54,6,3414
+Dhofar,Male,55 - 59,1,2751
+Dhofar,Male,60 - 64,1,2793
+Dhofar,Female,15 - 19,10,3378
+Dhofar,Female,20 - 24,601,8333
+Dhofar,Female,25 - 29,1840,8664
+Dhofar,Female,30 - 34,1319,9453
+Dhofar,Female,35 - 39,752,9226
+Dhofar,Female,40 - 44,279,7597
+Dhofar,Female,45 - 49,112,4845
+Dhofar,Female,50 - 54,22,2846
+Dhofar,Female,55 - 59,8,2735
+Dhofar,Female,60 - 64,3,2807
+Musandam,Male,15 - 19,31,302
+Musandam,Male,20 - 24,162,819
+Musandam,Male,25 - 29,112,1177
+Musandam,Male,30 - 34,23,1306
+Musandam,Male,35 - 39,14,1468
+Musandam,Male,40 - 44,4,1195
+Musandam,Male,45 - 49,5,804
+Musandam,Male,50 - 54,1,492
+Musandam,Male,55 - 59,1,395
+Musandam,Female,15 - 19,6,288
+Musandam,Female,20 - 24,181,816
+Musandam,Female,25 - 29,378,1055
+Musandam,Female,30 - 34,288,1344
+Musandam,Female,35 - 39,166,1355
+Musandam,Female,40 - 44,98,1033
+Musandam,Female,45 - 49,37,669
+Musandam,Female,50 - 54,10,405
+Musandam,Female,55 - 59,7,379
+Al Buraymi,Male,15 - 19,31,748
+Al Buraymi,Male,20 - 24,360,1645
+Al Buraymi,Male,25 - 29,250,1702
+Al Buraymi,Male,30 - 34,79,1304
+Al Buraymi,Male,35 - 39,68,1219
+Al Buraymi,Male,40 - 44,66,983
+Al Buraymi,Male,45 - 49,19,327
+Al Buraymi,Male,50 - 54,7,276
+Al Buraymi,Male,55 - 59,4,219
+Al Buraymi,Male,60 - 64,2,167
+Al Buraymi,Female,20 - 24,226,1682
+Al Buraymi,Female,25 - 29,576,1649
+Al Buraymi,Female,30 - 34,382,1200
+Al Buraymi,Female,35 - 39,201,1155
+Al Buraymi,Female,40 - 44,87,905
+Al Buraymi,Female,45 - 49,16,283
+Al Buraymi,Female,50 - 54,10,224
+Al Buraymi,Female,55 - 59,1,235
+Al Buraymi,Female,60 - 64,1,150
+Ad Dakhliyah,Male,15 - 19,248,5031
+Ad Dakhliyah,Male,20 - 24,1919,12539
+Ad Dakhliyah,Male,25 - 29,856,14230
+Ad Dakhliyah,Male,30 - 34,146,16194
+Ad Dakhliyah,Male,35 - 39,58,15833
+Ad Dakhliyah,Male,40 - 44,40,12614
+Ad Dakhliyah,Male,45 - 49,20,8644
+Ad Dakhliyah,Male,50 - 54,11,5267
+Ad Dakhliyah,Male,55 - 59,3,4028
+Ad Dakhliyah,Female,15 - 19,16,4931
+Ad Dakhliyah,Female,20 - 24,1141,12215
+Ad Dakhliyah,Female,25 - 29,2996,13780
+Ad Dakhliyah,Female,30 - 34,1495,15839
+Ad Dakhliyah,Female,35 - 39,532,15784
+Ad Dakhliyah,Female,40 - 44,131,12365
+Ad Dakhliyah,Female,45 - 49,28,8678
+Ad Dakhliyah,Female,50 - 54,10,5135
+Ad Dakhliyah,Female,60 - 64,1,3857
+Al Batinah North,Male,15 - 19,548,5654
+Al Batinah North,Male,20 - 24,3390,15735
+Al Batinah North,Male,25 - 29,1625,19203
+Al Batinah North,Male,30 - 34,478,20533
+Al Batinah North,Male,35 - 39,295,18919
+Al Batinah North,Male,40 - 44,224,14406
+Al Batinah North,Male,45 - 49,92,10581
+Al Batinah North,Male,50 - 54,41,7796
+Al Batinah North,Male,55 - 59,13,5846
+Al Batinah North,Male,60 - 64,2,4829
+Al Batinah North,Female,15 - 19,73,5657
+Al Batinah North,Female,20 - 24,1962,15567
+Al Batinah North,Female,25 - 29,4734,18847
+Al Batinah North,Female,30 - 34,2740,20165
+Al Batinah North,Female,35 - 39,1060,18708
+Al Batinah North,Female,40 - 44,397,14450
+Al Batinah North,Female,45 - 49,126,10476
+Al Batinah North,Female,50 - 54,21,6780
+Al Batinah North,Female,55 - 59,12,5911
+Al Batinah South,Male,15 - 19,344,3416
+Al Batinah South,Male,20 - 24,2097,9847
+Al Batinah South,Male,25 - 29,876,10677
+Al Batinah South,Male,30 - 34,206,12048
+Al Batinah South,Male,35 - 39,85,11774
+Al Batinah South,Male,40 - 44,60,9456
+Al Batinah South,Male,45 - 49,23,6961
+Al Batinah South,Male,50 - 54,16,4568
+Al Batinah South,Male,55 - 59,4,3354
+Al Batinah South,Male,60 - 64,4,3076
+Al Batinah South,Female,15 - 19,43,3478
+Al Batinah South,Female,20 - 24,1181,9627
+Al Batinah South,Female,25 - 29,3102,10668
+Al Batinah South,Female,30 - 34,1512,11736
+Al Batinah South,Female,35 - 39,446,11719
+Al Batinah South,Female,40 - 44,151,9606
+Al Batinah South,Female,45 - 49,50,6867
+Al Batinah South,Female,50 - 54,13,4292
+Al Batinah South,Female,55 - 59,6,3796
+Ash Sharqiyah South,Male,15 - 19,302,3542
+Ash Sharqiyah South,Male,20 - 24,1442,9058
+Ash Sharqiyah South,Male,25 - 29,722,9679
+Ash Sharqiyah South,Male,30 - 34,238,9382
+Ash Sharqiyah South,Male,35 - 39,171,8861
+Ash Sharqiyah South,Male,40 - 44,76,6978
+Ash Sharqiyah South,Male,45 - 49,40,4722
+Ash Sharqiyah South,Male,50 - 54,13,3520
+Ash Sharqiyah South,Male,55 - 59,3,2805
+Ash Sharqiyah South,Male,60 - 64,2,2277
+Ash Sharqiyah South,Female,15 - 19,15,3446
+Ash Sharqiyah South,Female,20 - 24,690,8793
+Ash Sharqiyah South,Female,25 - 29,1523,9238
+Ash Sharqiyah South,Female,30 - 34,892,9219
+Ash Sharqiyah South,Female,35 - 39,402,8767
+Ash Sharqiyah South,Female,40 - 44,140,7033
+Ash Sharqiyah South,Female,45 - 49,54,4791
+Ash Sharqiyah South,Female,50 - 54,11,3289
+Ash Sharqiyah South,Female,55 - 59,2,2664
+Ash Sharqiyah North,Male,15 - 19,113,2933
+Ash Sharqiyah North,Male,20 - 24,1061,8080
+Ash Sharqiyah North,Male,25 - 29,553,8391
+Ash Sharqiyah North,Male,30 - 34,140,8472
+Ash Sharqiyah North,Male,35 - 39,62,7462
+Ash Sharqiyah North,Male,40 - 44,35,5449
+Ash Sharqiyah North,Male,45 - 49,14,4222
+Ash Sharqiyah North,Male,50 - 54,5,2997
+Ash Sharqiyah North,Male,55 - 59,4,2454
+Ash Sharqiyah North,Male,60 - 64,1,2117
+Ash Sharqiyah North,Female,15 - 19,21,2924
+Ash Sharqiyah North,Female,20 - 24,634,7774
+Ash Sharqiyah North,Female,25 - 29,1557,8027
+Ash Sharqiyah North,Female,30 - 34,804,8240
+Ash Sharqiyah North,Female,35 - 39,258,7386
+Ash Sharqiyah North,Female,40 - 44,69,5616
+Ash Sharqiyah North,Female,45 - 49,24,4295
+Ash Sharqiyah North,Female,50 - 54,7,3063
+Ash Sharqiyah North,Female,55 - 59,1,2597
+Ash Sharqiyah North,Female,60 - 64,3,2424
+Adh Dhahirah,Male,15 - 19,154,1944
+Adh Dhahirah,Male,20 - 24,1129,5986
+Adh Dhahirah,Male,25 - 29,601,6764
+Adh Dhahirah,Male,30 - 34,141,7296
+Adh Dhahirah,Male,40 - 44,41,5326
+Adh Dhahirah,Male,45 - 49,32,4626
+Adh Dhahirah,Male,50 - 54,14,3113
+Adh Dhahirah,Male,55 - 59,6,2220
+Adh Dhahirah,Female,15 - 19,11,1899
+Adh Dhahirah,Female,20 - 24,592,5980
+Adh Dhahirah,Female,25 - 29,1773,6668
+Adh Dhahirah,Female,30 - 34,1007,6717
+Adh Dhahirah,Female,35 - 39,444,6595
+Adh Dhahirah,Female,40 - 44,135,5220
+Adh Dhahirah,Female,45 - 49,52,4539
+Adh Dhahirah,Female,50 - 54,10,2775
+Adh Dhahirah,Female,55 - 59,3,1965
+Adh Dhahirah,Female,60 - 64,1,1845
+Al Wusta,Male,15 - 19,20,153
+Al Wusta,Male,20 - 24,138,485
+Al Wusta,Male,25 - 29,49,740
+Al Wusta,Male,30 - 34,13,778
+Al Wusta,Male,35 - 39,6,694
+Al Wusta,Male,40 - 44,3,368
+Al Wusta,Male,45 - 49,3,249
+Al Wusta,Female,15 - 19,1,193
+Al Wusta,Female,20 - 24,52,481
+Al Wusta,Female,25 - 29,84,757
+Al Wusta,Female,30 - 34,41,799
+Al Wusta,Female,35 - 39,20,728
+Al Wusta,Female,40 - 44,2,408
+Al Wusta,Female,50 - 54,1,255
